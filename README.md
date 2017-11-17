@@ -1,4 +1,4 @@
-# LinearRegression
+# Linear Regression
 
 ## Training Dataset
 
